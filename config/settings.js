@@ -62,10 +62,10 @@ const GALLERY_PHOTOS = [
    Setiap string adalah satu paragraf.
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
-"okay so i kinda wanted to send this the way old sailors used to send word home — sealed up, set adrift, and just trusting it'd find its way to you somehow. like a tiny message dropped into the ocean, hoping it'd eventually reach the exact right person.",
-"ngl today's literally our day. i hope it feels exactly like that: unrushed, warm, and full of all the lil good things. hope today goes by slow, comfy, and full of tiny things that make you smile. you deserve every single bit of it, no cap.",
-"thank you for being the kind of person whose presence makes even the most ordinary days feel worth remembering. like fr, just having you around has its own way of making the most ordinary day feel special. this lil corner of the internet is just my small way of saying that.",
-"however we spend today, i just hope you're surrounded by people who love you just as much as i do, if not more. hope today's full of people who genuinely love you and make you feel it. happy anniversary, my favorite person ever."
+"And after all, semua ucapan ini aku berikan ke kamu karena aku cuma mau ngucapin satu hal yang paling penting, yaitu makasih. Makasih karena udah hadir di hidupku. Sejak ada kamu, aku ngerasa hidupku jadi lebih berarti. Kamu jadi salah satu alasan kenapa aku masih semangat buat terus jalanin hari-hari, terus berjuang, dan terus percaya kalau semuanya bakal baik-baik aja selama ada kamu di sisiku.",
+"Karena kamu juga, aku jadi lebih semangat buat kuliah. Alhamdulillah hasil akhir semesterku meningkat drastis dibanding sebelumnya, dan aku percaya salah satu alasannya adalah karena aku punya seseorang yang selalu aku pikirin, yang selalu jadi penyemangatku walaupun mungkin kamu ga pernah sadar. Terima kasih udah jadi support system terbaik yang pernah aku punya.",
+"Dan maafin aku ya sayang kalau selama ini aku masih banyak bikin kamu kecewa, banyak bikin kamu bad mood, banyak ga pekanya sama perasaan kamu, atau masih sering bikin kamu capek ngadepin aku. Aku masih terus belajar buat jadi seseorang yang lebih baik buat kamu. Aku harap ke depannya aku bisa lebih ngerti kamu, lebih peka, dan bisa bikin kamu ngerasa lebih dicintai setiap harinya.",
+"Happy Anniversary ya sayangkuu. 🤍 Semoga kita bisa terus bareng-bareng, terus tumbuh, saling belajar, saling menguatkan, dan sama-sama berjuang buat masa depan yang udah kita impiin. Thank you for choosing me every single day. Lovely nanutt, my panasea. I love you more than words could ever explain. 🤍"
 
 ];
 
