@@ -35,7 +35,7 @@ const MUSIC_TRACKS = [
     artist: "Sal Priadi",                   // ← GANTI NAMA ARTIS
     src:    "assets/music/song1.mp3",    //   (nama file mp3 — jangan diubah kecuali nama filenya beda)
     cover:  "assets/music/song1.jpeg",   //   (nama file cover — jangan diubah kecuali nama filenya beda)
-    startTime: 51,                           // ← MULAI DARI DETIK KE BERAPA
+    startTime: 89,                           // ← MULAI DARI DETIK KE BERAPA
   },
 ];
 
